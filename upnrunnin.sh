@@ -1,0 +1,3 @@
+export CARROTINA_SLACK_TOKEN='xoxb-94888004913-qx8jwExlXnoXdpSxjc1kU6Pd'
+export CARROTINA_SLACK_NAME='carrotina'
+export CARROTINA_ID='U2SS404SV'
